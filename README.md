@@ -1,0 +1,1 @@
+This repository contains Python code examples for basic NLP tasks, including tokenization, lemmatization, and stop word removal using NLTK. The project demonstrates how to preprocess text data for natural language processing tasks with tokenization and convert words to their base forms using lemmatization.
